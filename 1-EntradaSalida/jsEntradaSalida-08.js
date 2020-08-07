@@ -12,10 +12,10 @@ function SacarResto()
 	var divisorIngresado;
 	var resto;
 
-	dividendoIngreado=txtIdNumeroDividendo.value
-	dividendoIngreado=parseInt(dividendoIngresado);
+	dividendoIngresado=txtIdNumeroDividendo.value;
+	dividendoIngresado=parseInt(dividendoIngresado);
 
-	divisorIngresado=txtIdNumeroDivisor.value
+	divisorIngresado=txtIdNumeroDivisor.value;
 	divisorIngresado=parseInt(divisorIngresado);
 
 	resto=dividendoIngresado%divisorIngresado;
